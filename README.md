@@ -45,5 +45,4 @@ This is a static site (no backend) and can be hosted on GitHub Pages.
 - To support more functions (sin, cos, log), extend tokenizer, operator precedence, and evaluator.
 - This is intentionally small and dependency-free, suitable for embedding in docs or portfolio pages.
 
-## License
-MIT — use and modify freely.
+
